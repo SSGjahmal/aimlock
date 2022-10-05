@@ -88,7 +88,7 @@ local function Teleporter()
     end
 
     -- If you'd like to use a script before server hopping (Like a Automatic Chest collector you can put the Teleport() after it collected everything.
-    Teleport()
+    Teleport(45)
 end
 
 if game.PlaceId == 735030788 then
